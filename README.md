@@ -2,7 +2,7 @@
 
 1-clone the application first
 
-    git clone https://github.com/eman-m0hamed/laravel-week-2-3.git
+    git clone https://github.com/eman-m0hamed/blog-app.git
 
 2-open cmd inside the application then run this command to Install Dependencies (vendor folder):
 
